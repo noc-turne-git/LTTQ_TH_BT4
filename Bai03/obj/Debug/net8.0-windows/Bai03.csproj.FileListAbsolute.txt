@@ -19,3 +19,4 @@ D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai03\obj\Debug\net8.0-windows\Ba
 D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai03\obj\Debug\net8.0-windows\Bai03.genruntimeconfig.cache
 D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai03\obj\Debug\net8.0-windows\ref\Bai03.dll
 D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai03\obj\Debug\net8.0-windows\Bai03.FormMediaPlay.resources
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai03\obj\Debug\net8.0-windows\Bai03.sourcelink.json

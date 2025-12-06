@@ -68,15 +68,15 @@
             // MenuItemAdd
             // 
             MenuItemAdd.Name = "MenuItemAdd";
-            MenuItemAdd.Size = new Size(224, 26);
+            MenuItemAdd.ShortcutKeys = Keys.Control | Keys.N;
+            MenuItemAdd.Size = new Size(212, 26);
             MenuItemAdd.Text = "Thêm Mới";
             MenuItemAdd.Click += MenuItemAdd_Click;
-            MenuItemAdd.ShortcutKeys = Keys.Control | Keys.N;
             // 
             // MenuItemExit
             // 
             MenuItemExit.Name = "MenuItemExit";
-            MenuItemExit.Size = new Size(224, 26);
+            MenuItemExit.Size = new Size(212, 26);
             MenuItemExit.Text = "Thoát";
             MenuItemExit.Click += MenuItemExit_Click;
             // 
