@@ -1,0 +1,17 @@
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\bin\Debug\net8.0-windows\Bai06.exe
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\bin\Debug\net8.0-windows\Bai06.deps.json
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\bin\Debug\net8.0-windows\Bai06.runtimeconfig.json
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\bin\Debug\net8.0-windows\Bai06.dll
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\bin\Debug\net8.0-windows\Bai06.pdb
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.CopyFile_Form.resources
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.Properties.Resources.resources
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.csproj.GenerateResource.cache
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.AssemblyInfoInputs.cache
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.AssemblyInfo.cs
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.csproj.CoreCompileInputs.cache
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.dll
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\refint\Bai06.dll
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.pdb
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\Bai06.genruntimeconfig.cache
+D:\LTTQ\Thực Hành\BTH4_LuuBichNgan_24521128\Bai06\obj\Debug\net8.0-windows\ref\Bai06.dll
